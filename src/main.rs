@@ -1,5 +1,8 @@
 use std::io::{self, Write};
+
 pub mod vector;
+pub mod rays;
+
 use vector::Vec3;
 
 
